@@ -1,8 +1,8 @@
 # Site settings
-title: Klise Theme # site title
+title: Gean Ramos # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Ele está escrevendo em Bahasa sobre tecnologia web e experiência como um diário
+  para documentar coisas que aprendeu. Conheça-o no [@geanramus](https://insta.gr/geanramus). 😊
 lang: pt-BR # default lang
 timezone: America/Belém # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,10 +11,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Gean Ramos # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    📚 Bem-vindo ao The Memories! O lugar onde as histórias ganham vida e a procrastinação é permitida! 💻📖 Junte-se a nós para romances arrebatadores, reflexões profundas e muitos risos. Venha para a festa emocional! 😄✨ #TheMemories #Amor #Procrastinação
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
