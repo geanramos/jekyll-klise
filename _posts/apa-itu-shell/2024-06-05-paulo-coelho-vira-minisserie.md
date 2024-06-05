@@ -7,6 +7,8 @@ description: Netflix vai adaptar livro de Paulo Coelho e lançar minissérie dir
 image: "https://www.canalmeio.com.br/templates_news/thumbnail.php?id=Netflix+vai+adaptar+livro+de+Paulo+Coelho+e+lan%C3%A7ar+miniss%C3%A9rie+dirigida+por+Fernando+Meirelles"
 ---
 
+![Netflix vai adaptar livro de Paulo Coelho e lançar minissérie dirigida por Fernando Meirelles](https://www.canalmeio.com.br/templates_news/thumbnail.php?id=Netflix%20vai%20adaptar%20livro%20de%20Paulo%20Coelho%20e%20lan%C3%A7ar%20miniss%C3%A9rie%20dirigida%20por%20Fernando%20Meirelles)
+
 **O  _New York Times_**  reuniu um grupo de especialistas para escolher as  [25 fotografias](https://www.nytimes.com/2024/06/03/t-magazine/photography-robert-frank-gordon-parks.html)  mais significativas desde 1955. As obras selecionadas incluem os retratos de Che Guevara, feito por Alberto Korda, em 1960, e de Huey Newton, líder do partido dos Panteras Negras, feito por Blair Stapp, em 1968. 
 
 Também aparecem o  _Nascer da Terra_, registro de William A. Anders durante a missão Apollo 8 à Lua, em 1968, e a icônica imagem de Stuart Franklin de um homem não identificado bloqueando uma coluna de tanques na Praça da Paz Celestial, de 1989. 
@@ -14,6 +16,7 @@ Também aparecem o  _Nascer da Terra_, registro de William A. Anders durante a m
 A lista conta com a fotografia  _**Mina de Ouro de Serra Pelada**,_  do brasileiro Sebastião Salgado, que chamou a atenção dos críticos pela escala, que torna os corpos de milhares de homens em miniaturas. Para fechar a curadoria, está a capa do álbum  _Renaissance,_  de Beyoncé, feita por Carlijn Jacobs. (New York Times)
 
 **E a revista americana**  _Paste_  elegeu os 300 melhores discos da história da música com base em critérios como “influência e atemporalidade”. 
+![enter image description here](https://www.canalmeio.com.br/templates_news/thumbnail.php?id=Revista+americana+elege+300+melhores+discos+da+hist%C3%B3ria+com+dois+brasileiros+no+top+50)
 
 No topo da lista aparece  _Songs in the Key of Life_, de Stevie Wonder, seguido por  _Disintegration,_  do The Cure;  _Hounds of Love,_  de Kate Bush;  _Sign o' the Times_, de Prince; e  _Abbey Road_, dos Beatles. 
 
