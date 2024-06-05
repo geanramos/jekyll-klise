@@ -1,7 +1,7 @@
 # Site settings
 title: The memories # site title
 description: >- # site description
-  📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!
+  📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!<br>
   💻📖 Junte-se a nós para romances arrebatadores, reflexões profundas e muitos risos. 😊
 lang: pt-BR # default lang
 timezone: America/Belém # set your timezone
@@ -13,14 +13,14 @@ mode: light # default theme "dark" | "light"
 author:
   name: Gean Ramos # author name
   bio: >- # tell to the world
-    📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!
+    📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!<br>
     💻📖 Junte-se a nós para romances arrebatadores, reflexões profundas e muitos risos. 😊
   username: geanramos # general username
   github: geanramos # github username
   twitter: geanramos # twitter username
   facebook: geanramoss # facebook username
   email: geanramos@hotmail.com.br # email adress
-  avatar: https://2.gravatar.com/avatar/bdd3a9aa9878447e26ba6191f221487233264cf3915c0823af839cc5af5c9439?size=256 # change with your own avatar
+  avatar: https://2.gravatar.com/avatar/bdd3a9aa9878447e26ba6191f221487233264cf3915c0823af839cc5af5c9439?size=85 # change with your own avatar
 
 # URL settings
 url: "http://klise.50x.com.br" #
