@@ -4,7 +4,7 @@ date: 2024-06-05 18:52:47 -03:00
 modified: 2020-02-02 16:49:47 +07:00
 tags: [fotografia, musica, netflix, livro, paulo coelho]
 description: Netflix vai adaptar livro de Paulo Coelho e lançar minissérie dirigida por Fernando Meirelles.
-image: "[/apa-itu-shell/shell_evolution.png](https://www.canalmeio.com.br/templates_news/thumbnail.php?id=Netflix+vai+adaptar+livro+de+Paulo+Coelho+e+lan%C3%A7ar+miniss%C3%A9rie+dirigida+por+Fernando+Meirelles)"
+image: "https://www.canalmeio.com.br/templates_news/thumbnail.php?id=Netflix+vai+adaptar+livro+de+Paulo+Coelho+e+lan%C3%A7ar+miniss%C3%A9rie+dirigida+por+Fernando+Meirelles"
 ---
 
 **O  _New York Times_**  reuniu um grupo de especialistas para escolher as  [25 fotografias](https://www.nytimes.com/2024/06/03/t-magazine/photography-robert-frank-gordon-parks.html)  mais significativas desde 1955. As obras selecionadas incluem os retratos de Che Guevara, feito por Alberto Korda, em 1960, e de Huey Newton, líder do partido dos Panteras Negras, feito por Blair Stapp, em 1968. 
